@@ -118,7 +118,7 @@ Happy investigating, Detective! The town is counting on you to solve this myster
 
 ---
 
-## 🕵️Case Resolution
+## Case Resolution
 
 - **Suspect:** The Baker ✅ 
 - **Location:** Stockroom ✅ 
